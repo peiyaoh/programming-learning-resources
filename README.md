@@ -38,9 +38,9 @@ A curated list of programming learning resources, courses, and tools, in English
 
 ----
 ## Online Courses for Learning Programming
-| Name        | Institute           | Instructor  | Programming Language/Topic(s) | Price | Link | Note |
-| ------------- |:-------------:| :-----:| :-----:| :-----:| :-----:| :-----:| :-----:|
-| 計算機程式設計      | National Taiwan University | 劉邦鋒教授 | C | Free | https://www.coursera.org/learn/c-bian-cheng | |
+| Name | Institute | Instructor | Programming Language/Topic(s) | Price | Link | Note |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| 計算機程式設計 | National Taiwan University | 劉邦鋒教授 | C | Free | https://www.coursera.org/learn/c-bian-cheng | |
 | Programming for Everybody (Getting Started with Python)      | University of Michigan | Charles Severance, Associate Professor | Python | Free | https://www.coursera.org/learn/python | |
 | Web Design for Everybody (Basics of Web Development and Coding) Specialization      | University of Michigan | Colleen van Lent, Ph.D., Lecturer | HTML/CSS/Javascript | Free | https://www.coursera.org/learn/html | |
 | Web Applications for Everybody Specialization      | University of Michigan | Charles Severance, Associate Professor | PHP/SQL | Free | https://www.coursera.org/specializations/web-applications | |
