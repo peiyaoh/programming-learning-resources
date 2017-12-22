@@ -49,6 +49,12 @@ A curated list of programming learning resources, courses, and tools, in English
 | General & Javascript Programming      |  | Wes Bos | Javascript | Paid | http://wesbos.com/courses/ | |
 
 ----
+## Books
+| Name | Author | Topic(s) | Link | Note |
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
+| Exploratory Programming for the Arts and Humanities (MIT Press) | Nick Montfort | Pythong, Processing (Java) | https://www.amazon.com/Exploratory-Programming-Arts-Humanities-Press/ | For people without programming background |
+
+----
 ## Environment for Learning Programming
 | Name | Link | Note |
 | ------------- |:-------------:|:-------------:|
@@ -100,3 +106,4 @@ A curated list of programming learning resources, courses, and tools, in English
 In addition to the contributors, thanks to the following friends and colleagues for recommending wonderful resources.
 * [Amy (Ying-An) Chen](https://www.linkedin.com/in/amy-chen-yingan/)
 * [Han-Wen Chang](https://www.linkedin.com/in/chanwen/)
+* [Sayan Bhattacharyya](https://pricelab.sas.upenn.edu/fellows/bhattacharyya-sayan)
