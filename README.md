@@ -98,3 +98,4 @@ A curated list of programming learning resources, courses, and tools, in English
 ----
 ## Acknowledgement
 In addition to the contributors, thanks to the following friends and colleagues for recommending wonderful resources.
+* [Amy (Ying-An) Chen](https://www.linkedin.com/in/amy-chen-yingan/)
