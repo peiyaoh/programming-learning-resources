@@ -47,6 +47,7 @@ A curated list of programming learning resources, courses, and tools, in English
 | Android App Development Specialization      | Vanderbilt University | Dr. Schmidt et al. | Android, Java | Free | https://www.coursera.org/specializations/android-app-development | |
 | iOS App Development with Swift Specialization      | University of Toronto | Parham Aarabi, Professor | iOS, Swift | Free | https://www.coursera.org/specializations/app-development | |
 | General & Javascript Programming      |  | Wes Bos | Javascript | Paid | http://wesbos.com/courses/ | |
+| University of Michigan Open Software Carpentry Workshop      | University of Michigan  | Scott Martin, Marian L. Schmidt | Python | Free | https://umswc.github.io/2017-10-16-umswc/ | |
 
 ----
 ## Books
