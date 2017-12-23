@@ -32,7 +32,7 @@ A curated list of programming learning resources, courses, and tools, in English
 | Name | Programming Language | Link | Note |
 | ------------- |:-------------:|:-------------:|:-------------:|
 | Node School | Javascript | https://nodeschool.io/ | |
-| Learn Pythong | Python | https://www.learnpython.org/ | |
+| Learn Python | Python | https://www.learnpython.org/ | |
 | Learn Python the Hard Way | Python | https://learnpythonthehardway.org/book/ | |
 | Programming, Infomration, and People | Python |https://www.programsinformationpeople.org/runestone/static/publicPIP/index.html |  |
 
