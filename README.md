@@ -46,6 +46,7 @@ A curated list of programming learning resources, courses, and tools, in English
 | Web Applications for Everybody Specialization      | University of Michigan | Charles Severance, Associate Professor | PHP/SQL | Free | https://www.coursera.org/specializations/web-applications | |
 | Android App Development Specialization      | Vanderbilt University | Dr. Schmidt et al. | Android, Java | Free | https://www.coursera.org/specializations/android-app-development | |
 | iOS App Development with Swift Specialization      | University of Toronto | Parham Aarabi, Professor | iOS, Swift | Free | https://www.coursera.org/specializations/app-development | |
+| Stanford CS 193P Developing Applications for iOS | Stanford University | Michel Deiman (Youtube), Paul Hegarty (iTunes) | iOS, Swift | Free | https://www.youtube.com/playlist?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai , https://itunes.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780 | |
 | General & Javascript Programming      |  | Wes Bos | Javascript | Paid | http://wesbos.com/courses/ | |
 
 ----
@@ -108,3 +109,4 @@ In addition to the contributors, thanks to the following friends and colleagues 
 * [Han-Wen Chang](https://www.linkedin.com/in/chanwen/)
 * [Sayan Bhattacharyya](https://pricelab.sas.upenn.edu/fellows/bhattacharyya-sayan)
 * [Yu-Jen Lin](https://github.com/yjlintw/)
+* [David K Cheng](https://www.linkedin.com/in/kuanccheng/)
