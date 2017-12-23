@@ -57,6 +57,7 @@ A curated list of programming learning resources, courses, and tools, in English
 | Stanford CS 193P Developing Applications for iOS | Stanford University | Michel Deiman (Youtube), Paul Hegarty (iTunes) | iOS, Swift | Free | https://www.youtube.com/playlist?list=PLPA-ayBrweUz32NSgNZdl0_QISw-f12Ai , https://itunes.apple.com/us/podcast/developing-ios-11-apps-with-swift/id1315130780 | |
 | General & Javascript Programming      |  | Wes Bos | Javascript | Paid | http://wesbos.com/courses/ | |
 
+
 ----
 ## Books
 | Name | Author | Topic(s) | Link | Note |
@@ -107,6 +108,9 @@ A curated list of programming learning resources, courses, and tools, in English
 | Android | https://github.com/JStumpp/awesome-android | |
 | iOS | https://github.com/vsouza/awesome-ios | |
 | App Development Tutorials | https://www.raywenderlich.com/tutorials | |
+| Python | https://umswc.github.io/2017-10-16-umswc/ | Materials from Umich software carpentry workshop. The github site includes intro from unix shell to basic python syntax/commands. It's pretty useful for people who just start programming |
+
+
 ----
 ## New Section (?)
 
