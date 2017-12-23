@@ -99,7 +99,7 @@ A curated list of programming learning resources, courses, and tools, in English
 | Android | https://github.com/JStumpp/awesome-android | |
 | iOS | https://github.com/vsouza/awesome-ios | |
 | App Development Tutorials | https://www.raywenderlich.com/tutorials | |
-| Python | https://umswc.github.io/2017-10-16-umswc/ | Materials from Umich software carpentry workshop. The github site includes intro from unix shell to basic python syntax/commands. It's pretty useful for people who just started programming |
+| Python | https://umswc.github.io/2017-10-16-umswc/ | Materials from Umich software carpentry workshop. The github site includes intro from unix shell to basic python syntax/commands. It's pretty useful for people who just start programming |
 
 
 ----
