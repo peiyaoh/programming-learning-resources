@@ -97,7 +97,7 @@ A curated list of programming learning resources, courses, and tools, in English
 | Angular | https://github.com/gdi2290/awesome-angular | |
 | Android | https://github.com/JStumpp/awesome-android | |
 | iOS | https://github.com/vsouza/awesome-ios | |
-
+| App Development Tutorials | https://www.raywenderlich.com/tutorials | |
 ----
 ## New Section (?)
 
@@ -107,3 +107,4 @@ In addition to the contributors, thanks to the following friends and colleagues 
 * [Amy (Ying-An) Chen](https://www.linkedin.com/in/amy-chen-yingan/)
 * [Han-Wen Chang](https://www.linkedin.com/in/chanwen/)
 * [Sayan Bhattacharyya](https://pricelab.sas.upenn.edu/fellows/bhattacharyya-sayan)
+* [Yu-Jen Lin](https://github.com/yjlintw/)
