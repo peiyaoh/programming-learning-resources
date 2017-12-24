@@ -31,8 +31,8 @@ A curated list of programming learning resources, courses, and tools, in English
 ## Version Control & Collaboration Platform
 | Name | Link | Note |
 | ------------- |:-------------:| :-------------:|
-| GitHub | https://github.com/ | Unlimited public repository. Tutorial: https://help.github.com/articles/set-up-git/ |
-| Bitbucket | https://bitbucket.org/ | Unlimited private repository. Tutorial: https://confluence.atlassian.com/get-started-with-bitbucket/get-started-with-bitbucket-cloud-856845168.html | 
+| GitHub | https://github.com/ | Unlimited public repository.<br/>Tutorial: https://help.github.com/articles/set-up-git/ .<br />  Git 與 Github 版本控制基本指令與操作入門教學: http://happycoder.org/2017/11/19/cs101-learning-programming-and-coding-with-python-git-and-github-tutorial/ |
+| Bitbucket | https://bitbucket.org/ | Unlimited private repository.Tutorial: https://confluence.atlassian.com/get-started-with-bitbucket/get-started-with-bitbucket-cloud-856845168.html | 
 
 
 ----
