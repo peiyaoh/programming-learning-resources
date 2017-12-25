@@ -129,3 +129,4 @@ In addition to the contributors, thanks to the following friends and colleagues 
 * [Sayan Bhattacharyya](https://pricelab.sas.upenn.edu/fellows/bhattacharyya-sayan)
 * [Yu-Jen Lin](https://github.com/yjlintw/)
 * [David K Cheng](https://www.linkedin.com/in/kuanccheng/)
+* [Ming-Kai Ko](https://medium.com/@matrixki)
