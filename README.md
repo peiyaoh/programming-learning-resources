@@ -1,5 +1,9 @@
 # Programming Learning Resources, Courses and Tools
-A curated list of programming learning resources, courses, and tools, in English or Chinese
+A curated list of programming learning resources, courses, and tools, in English or Chinese (中文)
+
+You are perfectly welcome to suggest good resources to this list. Please refer to this [**tutorial**](https://help.github.com/articles/creating-a-pull-request/) by GitHub to add other resources.
+
+非常歡迎你建議其他優良的資訊到這個頁面。請參考這個 [**教程**](https://git-scm.com/book/zh-tw/v2/GitHub-%E5%8F%83%E8%88%87%E4%B8%80%E5%80%8B%E5%B0%88%E6%A1%88) 來新增項目。
 
 ## Programming Language(s) Learning Websites
 
