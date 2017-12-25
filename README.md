@@ -49,10 +49,11 @@ You are perfectly welcome to suggest good resources to this list. Please refer t
 | Programming, Infomration, and People | Python |https://www.programsinformationpeople.org/runestone/static/publicPIP/index.html |  |
 
 ----
-## Online Courses for Learning Programming
+## Courses for Learning Programming
 | Name | Institute | Instructor | Programming Language/Topic(s) | Price | Link | Note |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 計算機程式設計 | National Taiwan University | 劉邦鋒教授 | C | Free | https://www.coursera.org/learn/c-bian-cheng | |
+| 台大資訊系統訓練班 | National Taiwan University |  | C, C++, Python, PHP, MySQL, HTML/CSS/Javascript, R, C#, Unity, Java  | Paid | https://train.csie.ntu.edu.tw/train/ | |
 | Programming for Everybody (Getting Started with Python)      | University of Michigan | Charles Severance, Associate Professor | Python | Free | https://www.coursera.org/learn/python | |
 | Web Design for Everybody (Basics of Web Development and Coding) Specialization      | University of Michigan | Colleen van Lent, Ph.D., Lecturer | HTML/CSS/Javascript | Free | https://www.coursera.org/learn/html | |
 | Web Applications for Everybody Specialization      | University of Michigan | Charles Severance, Associate Professor | PHP/SQL | Free | https://www.coursera.org/specializations/web-applications | |
