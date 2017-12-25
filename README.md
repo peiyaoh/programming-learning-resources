@@ -54,6 +54,8 @@ You are perfectly welcome to suggest good resources to this list. Please refer t
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
 | 計算機程式設計 | National Taiwan University | 劉邦鋒教授 | C | Free | https://www.coursera.org/learn/c-bian-cheng | |
 | 台大資訊系統訓練班 | National Taiwan University |  | C, C++, Python, PHP, MySQL, HTML/CSS/Javascript, R, C#, Unity, Java  | Paid | https://train.csie.ntu.edu.tw/train/ | |
+| 好學校 | 好學校 |  | 多種程式語言  | Paid | https://hahow.in/courses?category-id=55de81ac9d1fa51000f94770 | |
+| YOTTA | YOTTA |  | 多種程式語言  | Paid | https://www.yottau.com.tw/search/%E7%A8%8B%E5%BC%8F | |
 | Programming for Everybody (Getting Started with Python)      | University of Michigan | Charles Severance, Associate Professor | Python | Free | https://www.coursera.org/learn/python | |
 | Web Design for Everybody (Basics of Web Development and Coding) Specialization      | University of Michigan | Colleen van Lent, Ph.D., Lecturer | HTML/CSS/Javascript | Free | https://www.coursera.org/learn/html | |
 | Web Applications for Everybody Specialization      | University of Michigan | Charles Severance, Associate Professor | PHP/SQL | Free | https://www.coursera.org/specializations/web-applications | |
