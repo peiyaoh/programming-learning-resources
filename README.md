@@ -39,6 +39,7 @@ You are perfectly welcome to suggest good resources to this list. Please refer t
 | Bitbucket | https://bitbucket.org/ | Unlimited private repository.Tutorial: https://confluence.atlassian.com/get-started-with-bitbucket/get-started-with-bitbucket-cloud-856845168.html | 
 
 
+
 ----
 ## Programming Language Specific Learng Resrouces
 | Name | Programming Language | Link | Note |
@@ -82,13 +83,14 @@ You are perfectly welcome to suggest good resources to this list. Please refer t
 
 ----
 ## Programming Framework, Library, or Tools Learng Resrouces
-| Name | Programming Language | Type | Link | Note |
+| Name | Topic/Programming Language | Type | Link | Note |
 | ------------- |:-------------:| :-------------:| :-------------:| :-------------:|
 | Android | Java | Environment | https://developer.android.com/training/index.html| |
 | iOS | Swift | Environment | https://developer.apple.com/library/content/referencelibrary/GettingStarted/DevelopiOSAppsSwift/| |
 | Angular | Javascript | Framework | https://toddmotto.com/ultimate-guide-to-learning-angular-js-in-one-day/ | |
 | React | Javascript | Library | https://roadtoreact.com/ | By the wonderful [Robin Wieruch](https://github.com/rwieruch)|
 | Redux | Javascript | Library | https://egghead.io/courses/getting-started-with-redux | By the amazing [Dan Abramov](https://github.com/gaearon) |
+| Introduction to Git for Data Science | Git | Tool | https://www.datacamp.com/courses/introduction-to-git-for-data-science |  |
 
 ----
 ## Programming/Development Podcast(s)
