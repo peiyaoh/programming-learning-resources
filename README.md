@@ -119,6 +119,7 @@ You are perfectly welcome to suggest good resources to this list. Please refer t
 | iOS | https://github.com/vsouza/awesome-ios | |
 | App Development Tutorials | https://www.raywenderlich.com/tutorials | |
 | Python | https://umswc.github.io/2017-10-16-umswc/ | Materials from Umich software carpentry workshop. The github site includes intro from unix shell to basic python syntax/commands. It's pretty useful for people who just start programming |
+| Python | https://www.oreilly.com/playlists/d48870e7-033e-48b8-907d-1a56868bb089 | A list of readings/books recommended by [Anthony Whyte](https://github.com/arwhyte), a instructor for multiple programming courses at the School of Information, University of Michigan|
 
 
 ----
