@@ -71,7 +71,7 @@ You are perfectly welcome to suggest good resources to this list. Please refer t
 | Name | Author | Topic(s) | Link | Note |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
 | 前端工程師養成手冊 | [廖洧杰](https://www.facebook.com/sfismy) | 前端 (Front-End) 養成和求職 | https://www.gitbook.com/book/mrliao/f2ebook/details|  |
-| Exploratory Programming for the Arts and Humanities (MIT Press) | Nick Montfort | Pythong, Processing (Java) | https://www.amazon.com/Exploratory-Programming-Arts-Humanities-Press/ | For people without programming background |
+| Exploratory Programming for the Arts and Humanities (MIT Press) | Nick Montfort | Python, Processing (Java) | https://www.amazon.com/Exploratory-Programming-Arts-Humanities-Press/ | For people without programming background |
 
 ----
 ## Environment for Learning Programming
